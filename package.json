@@ -15,7 +15,7 @@
     "doasync": "2.0.1",
     "express": "5.0.1",
     "express-fileupload": "1.5.0",
-    "express-handlebars": "8.0.1",
+    "express-handlebars": "8.0.4",
     "file-type": "19.6.0",
     "insafe": "0.5.1",
     "jsdom": "25.0.0",
